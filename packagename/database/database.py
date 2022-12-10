@@ -14,7 +14,9 @@
 
 # %%
 import pandas as pd
+
 def cargar_datos():
+    
     df_total = pd.read_excel('qFallas.xlsx')
     df_bow = pd.read_excel('BoW clasificación de avisos.xlsx')
     df_dic_da = pd.read_excel('Diccionario DA.xlsx', index_col='Palabra')
