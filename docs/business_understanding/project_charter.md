@@ -53,7 +53,7 @@ El algoritmo debe ingresar y validar cada uno de los textos de cada aviso y clas
 **Científico(s) de datos**: Leonardo Fabio Montenegro (Ingeniero de datos)
 
 * Cliente:
-**Contacto con la empresa**: Diana Mendez (Ingeniero de confiabilidad e integridad)
+**Contacto con la empresa**: Diana Carolina Mendez (Ingeniero de confiabilidad e integridad)
 
 	
 ## Métricas
