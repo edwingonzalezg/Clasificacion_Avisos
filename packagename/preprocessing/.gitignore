@@ -3,5 +3,3 @@
 *.lock
 # Ignore All (ipynb) files
 *.ipynb
-# Ignore All (xlsx) files
-*.xlsx
