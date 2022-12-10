@@ -1,0 +1,5 @@
+**/*.ipynb:cehckpints/
+# Ignore All (lock) files
+*.lock
+# Ignore All (ipynb) files
+*.ipynb
